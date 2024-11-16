@@ -1,3 +1,5 @@
+create web.config file on root folder and paste below code in file
+
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
   <system.webServer>
